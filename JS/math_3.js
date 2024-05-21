@@ -41,7 +41,6 @@ y += 50;
 
 
 
-
 //Math 1
 
 // Paso 1: Crear cuatro variables que contengan números

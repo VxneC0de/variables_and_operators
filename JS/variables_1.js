@@ -1,6 +1,6 @@
 //Variables Tasks
 
-//Working with variablesm -Declare two variables: admin and name. -Assign the value "John" to name. -Copy the value from name to admin. -Show the value of admin using alert (must output “John”).//
+//1-Working with variablesm -Declare two variables: admin and name. -Assign the value "John" to name. -Copy the value from name to admin. -Show the value of admin using alert (must output “John”).//
 
 let admin;
 let name;
@@ -10,13 +10,19 @@ admin = name;
 
 //alert(admin);
 
-//Giving the right name. -Create a variable with the name of our planet. How would you name such a variable? - Create a variable to store the name of a current visitor to a website. How would you name that variable?//
+
+
+
+
+//2-Giving the right name. -Create a variable with the name of our planet. How would you name such a variable? - Create a variable to store the name of a current visitor to a website. How would you name that variable?//
 
 let earthPlanet;
 let currentVisitor;
 
 
-//Uppercase const? -Examine the following code: 
+
+
+//3-Uppercase const? -Examine the following code: 
 
 //const birthday = '18.04.1982';
 //const age = someCode(birthday);
